@@ -8,9 +8,7 @@
 ![WebSite2](Screenshot_2.png)
 ![WebSite3](Screenshot_3.png)
    
-# Sitenin Adresi
-   
-[MMYShoes](https://mmyshoescenter.infinityfreeapp.com)
+
 
 
 
